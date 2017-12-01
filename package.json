@@ -1,0 +1,25 @@
+{
+  "name": "trumbow",
+  "version": "1.0.0",
+  "description": "a basic to trumbow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thethuz/trumbow.git"
+  },
+  "keywords": [
+    "trumbowyg"
+  ],
+  "author": "thu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thethuz/trumbow/issues"
+  },
+  "homepage": "https://github.com/thethuz/trumbow#readme",
+  "dependencies": {
+    "trumbowyg": "^2.8.1"
+  }
+}
